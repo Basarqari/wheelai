@@ -978,8 +978,8 @@ footer
 }
 
 footer {
-  margin-top: 70px;
-  padding-top: 20px;
+  margin-top: 10px;
+  padding-top: 80px;
   background-image: url(../images/footer-bg.png);
   background-repeat: no-repeat;
   background-position: center center;
